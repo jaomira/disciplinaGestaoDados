@@ -29,7 +29,7 @@
 * **Onde os dados são armazenados:**
   * Em um banco de dados relacional em nuvem, protegido por criptografia e com rotinas de backup para evitar perda de informações.
 * **Dados sensíveis:**
-  * Endereços residenciais exatos, geolocalização dos pontos de embarque e horários da rotina diária de deslocamento dos colaboradores.
+  * Nomes dos passageiros, endereços residenciais exatos, geolocalização dos pontos de embarque, horários e turnos e empresa vinculada (vínculo empregatício).
 * **Problemas relacionados aos dados:**
   * O uso de planilhas (modelo antigo) gera descontrole. Os arquivos circulam livremente por e-mail e WhatsApp, sem rastreabilidade de quem acessou ou alterou os dados, ferindo os princípios de segurança da LGPD.
 * **Riscos:**
