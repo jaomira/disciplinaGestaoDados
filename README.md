@@ -17,7 +17,6 @@
 * **Principais processos:** Gestão do cadastro de frotas, roteirização de passageiros, fluxo de aprovação de embarques pelo RH e manutenção da segurança do sistema.
 * **Objetivos estratégicos:** Substituir as planilhas de Excel das empresas parceiras, agilizar a comunicação entre RH e Transportadora e garantir a conformidade legal no trato das informações dos passageiros.
 
----
 
 ## 2. O Projeto de Software
 
