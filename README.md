@@ -9,7 +9,7 @@
 * **Valores:** Inovação, Eficiência Operacional, Transparência, Foco no Cliente e Compromisso com a Segurança da Informação.
 * **Produtos/serviços:** Plataforma Minha Rota (Painel Web para gestão e App para motoristas).
 * **Clientes:** Transportadoras parceiras e setores de RH de empresas contratantes.
-* **Fornecedores e parceiros:** Provedores de nuvem para hospedagem do banco de dados e serviços de mapas/geolocalização.
+* **Fornecedores e parceiros:** Provedores de servidores híbridos para hospedagem do banco de dados e serviços de mapas/geolocalização.
 * **Organograma:** 
   * Diretoria
   * Equipe de Desenvolvimento (Web, Mobile e Dados)
@@ -26,8 +26,9 @@
 * **Quem utiliza esses dados:**
   * **Administradores e RH:** Possuem acesso amplo para visualizar, editar e gerenciar as listas e roteiros.
   * **Motoristas:** Possuem acesso restrito; visualizam apenas as informações estritamente necessárias (nome do passageiro e ponto de apanha) para a viagem do dia.
+  * **Passageiros:** Possuem acesso restrito; visualizam apenas as suas próprias informações (nome do motorista e ponto de apanha) para a viagem do dia.
 * **Onde os dados são armazenados:**
-  * Em um banco de dados relacional em nuvem, protegido por criptografia e com rotinas de backup para evitar perda de informações.
+  * Em um banco de dados relacional, protegido por criptografia e com rotinas de backup para evitar perda de informações.
 * **Dados sensíveis:**
   * Nomes dos passageiros, endereços residenciais exatos, geolocalização dos pontos de embarque, horários e turnos e empresa vinculada (vínculo empregatício).
 * **Problemas relacionados aos dados:**
